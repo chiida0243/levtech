@@ -1,4 +1,4 @@
-<?php
+I<?php
 
 use Illuminate\Support\Facades\Facade;
 
@@ -69,7 +69,7 @@ return [
     |
     */
 
-    'timezone' => 'UTC',
+    'timezone' => 'Asia/Tokyo',
 
     /*
     |--------------------------------------------------------------------------
